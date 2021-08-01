@@ -1,3 +1,10 @@
+# ARCHIVED
+
+This repository is archived. I am no longer actively developing/supporting it.
+
+If you are interested in discussing the contents of this repository feel free to contact me
+via the contact details provided in the "Author" section below.
+
 # qremis_api 
 [![Build Status](https://travis-ci.org/bnbalsamo/qremis_api.svg?branch=master)](https://travis-ci.org/bnbalsamo/qremis_api) [![Coverage Status](https://coveralls.io/repos/github/bnbalsamo/qremis_api/badge.svg?branch=master)](https://coveralls.io/github/bnbalsamo/qremis_api?branch=master) 
 
